@@ -1,7 +1,3 @@
-##====================================
-###simple php site
-##====================================
-
 #!/bin/bash
 
 echo "ClientAliveInterval 60" >> /etc/ssh/sshd_config
