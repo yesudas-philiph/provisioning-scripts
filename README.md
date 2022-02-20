@@ -1,6 +1,6 @@
 # Provisioning-scripts
 ## Some useful ec2-userdata
-![GitHub last commit](https://img.shields.io/github/last-commit/yesudas-philiph/provisioning-scripts)
+![GitHub last commit](https://img.shields.io/github/last-commit/yesudas-philiph/provisioning-scripts) ![GitHub top language](https://img.shields.io/github/languages/top/yesudas-philiph/provisioning-scripts) ![GitHub language count](https://img.shields.io/github/languages/count/yesudas-philiph/provisioning-scripts)
 
 
 What is Amazon ec2 user-data ?
