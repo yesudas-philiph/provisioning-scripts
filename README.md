@@ -1,6 +1,6 @@
 # Provisioning-scripts
 ## Some useful ec2-userdata
-[![Build Status](https://img.shields.io/github/checks-status/yesudas-philiph/provisioning-scripts/master)]()
+[![Build Status](![GitHub branch checks state](https://img.shields.io/github/checks-status/yesudas-philiph/provisioning-scripts/master)]()
 
 
 What is Amazon ec2 user-data ?
