@@ -18,3 +18,23 @@ For more information visit [Amazon ec2 user-data](https://docs.aws.amazon.com/AW
 >locale : command for displaying the current locale settings
 
 >ClientAliveInterval: Sets a timeout interval in seconds after which if no data has been received from the client, sshd will send a message through the encrypted channel to request a response from the client. The default is 0, indicating that these messages will not be sent to the client.
+
+
+
+## Other scripts
+
+docker.sh : installs docker and docker-compose
+
+
+terraform.sh : installs terraform
+
+
+basic-userdata : includes codes to help the instance to keep the history, append history after each sessions
+
+
+
+
+wordpress setup:\
+db: installs and starts up mariadb, create dtabase named wp, user wp with password wp and grant all priviles to user wp over database wp
+
+webserver: download and copy wordpress files to webroot of the apache webserver and add details such as database name, database user name and password for database user. Instead of db server ip I've added db.internal, you can create private hosted zone in route 53 and add db server ip there as a 'A' record.
